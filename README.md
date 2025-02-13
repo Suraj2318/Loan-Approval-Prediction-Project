@@ -1,6 +1,6 @@
 ### **Loan Approval Prediction Project**  
 
-This repository contains the Loan Approval Prediction project, part of my data science portfolio, completed during an online hackathon organized by **Analytics Vidhya**. The project's goal was to automate the loan approval process by building a machine learning model to predict loan eligibility based on customer data. The evaluation metric used was **accuracy**, with the best performance achieved using **Logistic Regression (0.7847)**, followed by **Random Forest (0.7778)** and **XGBoost (0.7778)**. The **Decision Tree** algorithm performed the worst with an accuracy of **0.6458**.
+This **Loan Approval Prediction** project is part of my data science portfolio and was completed during an online hackathon organized by **Analytics Vidhya**. The objective was to automate the loan approval process by developing a machine learning model to predict loan eligibility based on customer data. The evaluation metric used was **accuracy**, with the best performance achieved using **Logistic Regression (0.802)**, followed by **Random Forest (0.788)**, **XGBoost (0.773)**, and **Decision Tree (0.754)**.
 
 ### **Project Highlights**  
 This project covers the entire data science workflow, including:  
